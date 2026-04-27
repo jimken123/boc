@@ -1,4 +1,4 @@
-  <style> :root {
+:root {
       --bg-color: #000000;
       --text: #ffffff;
       --font-size: 1.05rem;
@@ -293,6 +293,3 @@
   button {
       transition: all 1s ease !important;
   }
-
-  </style>
-  
