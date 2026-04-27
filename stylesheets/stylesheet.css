@@ -26,12 +26,12 @@
       text-transform: uppercase;
       color: var(--text);
       background-color: var(--bg-color);
-      background-image: url('images/bg.jpg');
+      background-image: url('/images/bg.jpg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
   }
-
+/Users/jim/Desktop/github/boc/images/bg.jpg
   body {
       min-height: 100vh;
       min-height: 100svh;
