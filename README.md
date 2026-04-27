@@ -6,4 +6,4 @@ This is based on the teaser website from Boards of Canada leading up to the rele
 
 It looked like this:
 
-![alt text](<boc-original.png>)
+![alt text](</images/boc-original.png>)
