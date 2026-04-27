@@ -26,7 +26,7 @@
       text-transform: uppercase;
       color: var(--text);
       background-color: var(--bg-color);
-      background-image: url('./boc_files/bg.jpg');
+      background-image: url('/boc_files/bg.jpg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
