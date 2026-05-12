@@ -1,4 +1,4 @@
-# boc
+# boc <-- moved to (codeberg)[https://codeberg.org/jimkennedy]
 
 A one-page 'coming soon' splash webpage.
 
